@@ -14,7 +14,7 @@
 
 </div>
 
-![头像]([image](https://avatars.githubusercontent.com/u/119493305)
+![头像](https://avatars.githubusercontent.com/u/119493305)
 
 ![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
 
